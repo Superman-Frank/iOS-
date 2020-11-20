@@ -1,0 +1,6 @@
+framework module Pods_______Tests {
+  umbrella header "Pods-国家城市列表Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
